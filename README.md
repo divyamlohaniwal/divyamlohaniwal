@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Divyam Lohaniwal
 
-<!--
-**divyamlohaniwal/divyamlohaniwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI/ML Engineer passionate about building intelligent systems and learning how things work under the hood.  
+📚 Currently strengthening my foundations in **Data Structures & Algorithms** and **Python**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently Working On
+- Personal AI/ML and Python projects
+- Improving problem-solving skills through DSA practice
+
+### 🌱 Currently Learning
+- Data Structures & Algorithms
+- Advanced Python
+- Core AI/ML concepts
+
+### 💻 Tech Stack
+- Python
+- Machine Learning
+- Artificial Intelligence
+- Basic Data Structures & Algorithms
+
+### 👯 Looking to Collaborate On
+- AI/ML projects
+- Beginner-friendly open-source projects
+- Python-based applications
+
+---
+
+⭐️ *Check out my repositories and feel free to connect!*
